@@ -1,0 +1,10 @@
+
+ 
+    2  apt-get update
+    3  apt install apache2
+ 
+    5  systemctl status apache2
+    6  cd /var/www/html
+    7  nano order.html
+    8  cat order.html 
+ 
