@@ -1,4 +1,4 @@
-
+sudo -i
  
     2  apt-get update
     3  apt install apache2
